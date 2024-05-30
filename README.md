@@ -1,6 +1,7 @@
 # Hierarchical Matching and Reasoning for Multi-Query Image Retrieval
 [Hierarchical Matching and Reasoning for Multi-Query Image Retrieval](https://doi.org/10.1016/j.neunet.2024.106200)
 Zhong Ji, Zhihao Li, Yan Zhang, Haoran Wang, Yanwei Pang, Xuelong Li. Neural Networks 2024
+
 PyTorch implementation of our method for multi-query image retrieval.
 ## Requirements
 - Setup a conda environment and install some prerequisite packages including
